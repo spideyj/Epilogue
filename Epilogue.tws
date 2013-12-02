@@ -1,11 +1,11 @@
 (dp0
 S'buildDestination'
 p1
-S''
+VC:\u005cUsers\u005cspideyj\u005cDocuments\u005cWork\u005cEpilogue\u005cEpilogue.html
 p2
 sS'saveDestination'
 p3
-VC:\u005cUsers\u005cspideyj\u005cDocuments\u005cWork\u005cEpilogue\u005cEpilogue.tws
+S'C:\\Users\\spideyj\\Documents\\Work\\Epilogue\\Epilogue.tws'
 p4
 sS'target'
 p5
@@ -24,8 +24,8 @@ I00
 sS'pos'
 p13
 (lp14
-I69
-aI84
+I9
+aI150
 asS'passage'
 p15
 (itiddlywiki
@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-S'Your story will display this passage first. Edit it by double clicking it.'
+V'Typically, when relating a trauma, you start at the beginning of the account... Too often, you can get stuck at the beginning or in the middle, and rarely, if ever, get to the end --the actual end. You may get as far as when you got away, the earthquake stopped, the perpetrator lost interest, or the ambulance arrived. But that is not the actual end. The true conclusion to any trauma is the arrival at now, today. Getting to now is the testament that you made it, you are here. Whatever it was, you survived it. For that reason, this is the place I find it best to start trauma recovery --with the epilogue, the fact that //you made it//.'\u000a\u000a- 8 Keys to Safe Trauma Recovery: Take-Charge Strategies to Empower Your Healing by Babette Rothschild\u000a\u000a[[The End, the Beginning]]
 p19
 sS'tags'
 p20
@@ -62,7 +62,7 @@ p28
 g27
 sS'title'
 p29
-S'Start'
+VStart
 p30
 sbsa(dp31
 g12
@@ -103,11 +103,11 @@ VStoryTitle
 p41
 sbsa(dp42
 g12
-I01
+I00
 sg13
 (lp43
 I430
-aI11
+aI10
 asg15
 (itiddlywiki
 Tiddler
@@ -138,7 +138,530 @@ g51
 sg29
 VStorySubtitle
 p52
+sbsa(dp53
+g12
+I00
+sg13
+(lp54
+I570
+aI10
+asg15
+(itiddlywiki
+Tiddler
+p55
+(dp56
+S'text'
+p57
+Vby Kanane Jones
+p58
+sS'tags'
+p59
+(lp60
+sS'created'
+p61
+g23
+((I2013
+I12
+I1
+I18
+I21
+I15
+I6
+I335
+I0
+tp62
+(dp63
+tp64
+Rp65
+sS'modified'
+p66
+g65
+sS'title'
+p67
+VStoryAuthor
+p68
+sbsa(dp69
+g12
+I00
+sg13
+(lp70
+I149
+aI149
+asg15
+(itiddlywiki
+Tiddler
+p71
+(dp72
+g57
+VI packed up my computer and some of my things and my parents came and picked me up. It was very late at night and I don't think we got to their place until after 1 am.\u000a\u000a[[New Phone]]
+p73
+sg59
+(lp74
+sg61
+g23
+((I2013
+I12
+I1
+I18
+I36
+I0
+I6
+I335
+I0
+tp75
+(dp76
+tp77
+Rp78
+sg66
+g78
+sg67
+VThe End, the Beginning
+p79
+sbsa(dp80
+g12
+I00
+sg13
+(lp81
+I289
+aI150
+asg15
+(itiddlywiki
+Tiddler
+p82
+(dp83
+g57
+VOne of the first tasks I tackled was to get off of his family plan. I rewarded myself by getting a new phone that I had been really excited about, an HTC G1, one of the first android phones. I was really happy to no longer be with AT&T, too.\u000a\u000a(For a long time I grieved over the loss of the relationship, though.)\u000a\u000a[[World of Warcraft]]
+p84
+sg59
+(lp85
+sg61
+g23
+((I2013
+I12
+I1
+I18
+I36
+I55
+I6
+I335
+I0
+tp86
+(dp87
+tp88
+Rp89
+sg66
+g89
+sg67
+VNew Phone
+p90
+sbsa(dp91
+g12
+I00
+sg13
+(lp92
+I429
+aI150
+asg15
+(itiddlywiki
+Tiddler
+p93
+(dp94
+g57
+VI didn't have a job or transportation. At first I didn't do much. I played a lot of World of Warcraft. And by "played" I mostly mean that I would log in and talk to my friends. For a while I couldn't concentrate to do anything more than hang out in the game and chat with people. But that, and Facebook, were a lifeline.\u000a\u000a[[I learned some things]]
+p95
+sg59
+(lp96
+sg61
+g23
+((I2013
+I12
+I1
+I18
+I38
+I58
+I6
+I335
+I0
+tp97
+(dp98
+tp99
+Rp100
+sg66
+g100
+sg67
+VWorld of Warcraft
+p101
+sbsa(dp102
+g12
+I00
+sg13
+(lp103
+I568
+aI150
+asg15
+(itiddlywiki
+Tiddler
+p104
+(dp105
+g57
+VAbout six months after the breakup, a friend of mine was going through a divorce. She posted some links to things on her livejournal, including this one: <html><a href="http://www.fugitivus.net/2010/06/10/on-interpersonal-badness/">On Interpersonal Badness</a></html>\u000a\u000aIt had never occurred to me until then that what I had experienced was abuse. Even then, I resisted the idea. Still, in one of the comments on <html><a href="http://www.fugitivus.net/">Fugitivus blog</a></html>, someone recommended 'Why Does He Do That?: Inside the Minds of Angry and Controlling Men' by Lundy Bancroft. I thought it was worth looking into, at least, so I bought it. I also read all of the posts on Fugitivus, and anything linked there as well.\u000a\u000aThis realization was powerful and scary. My father asked me how I could let this happen and I got angry at him. I got angry at men in general and at society for creating a world in which abusers can exist and even prosper. Mostly I was really angry at myself.\u000a\u000a[[Fear]]\u000a
+p106
+sg59
+(lp107
+sg61
+g23
+((I2013
+I12
+I1
+I18
+I40
+I34
+I6
+I335
+I0
+tp108
+(dp109
+tp110
+Rp111
+sg66
+g111
+sg67
+VI learned some things
+p112
+sbsa(dp113
+g12
+I00
+sg13
+(lp114
+I10
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p115
+(dp116
+g57
+VBehind the anger was fear, though.\u000a\u000aIf it happened once, couldn't it happen again? How could I ever be safe in a relationship?\u000a\u000aThe Bancroft book outlined some warning signs, though, and I thought that could help.\u000a\u000a[[My truck]]
+p117
+sg59
+(lp118
+sg61
+g23
+((I2013
+I12
+I1
+I18
+I59
+I52
+I6
+I335
+I0
+tp119
+(dp120
+tp121
+Rp122
+sg66
+g122
+sg67
+VFear
+p123
+sbsa(dp124
+g12
+I00
+sg13
+(lp125
+I150
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p126
+(dp127
+g57
+VBefore I had been driving his father's truck, so after the breakup, I had no transportation. My parents live in a place that is not easy to get in and out of via public transit, so I worked with them to get my own truck up and running.\u000a\u000aI also started looking for work. I went to some interviews. Eventually I went back to my old job as a tester.\u000a\u000a[[World of Warcraft, part 2]]\u000a[[Career movement]]\u000a\u000a
+p128
+sg59
+(lp129
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I1
+I34
+I6
+I335
+I0
+tp130
+(dp131
+tp132
+Rp133
+sg66
+g133
+sg67
+VMy truck
+p134
+sbsa(dp135
+g12
+I00
+sg13
+(lp136
+I290
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p137
+(dp138
+g57
+VSoon after I started working again, I realized that things had changed and it was a much worse place to work than it had been before. Also, with my fear and anger towards men, the overwhelmingly sexist and masculine environment there was toxic for me in a way that I hadn't perceived before. I got pretty upset and discouraged but I also got out.\u000a\u000aI applied for QA positions at several companies. \u000a\u000a[[Work, Work]]\u000a
+p139
+sg59
+(lp140
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I3
+I25
+I6
+I335
+I0
+tp141
+(dp142
+tp143
+Rp144
+sg66
+g144
+sg67
+VCareer movement
+p145
+sbsa(dp146
+g12
+I00
+sg13
+(lp147
+I430
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p148
+(dp149
+g57
+VI got a QA position at a small social games company in San Francisco. It turned out to be my dream job, in a lot of ways - I was in a position where my natural tendency towards frankness and my passion for our games were appreciated, an asset instead of the liability it had been in other places and relationships. The environment was still fairly masculine but it was toned down and I didn't feel like it was toxic. I still sometimes got depressed but it was mostly because we were a struggling startup and I really didn't have much time or energy for anything other than work.\u000a\u000aI did start to think I might want a relationship, but I planned to move to the City first (especially since my commute was hours a day and my work hours were long).\u000a\u000a[[The City]]
+p150
+sg59
+(lp151
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I6
+I1
+I6
+I335
+I0
+tp152
+(dp153
+tp154
+Rp155
+sg66
+g155
+sg67
+VWork, Work
+p156
+sbsa(dp157
+g12
+I00
+sg13
+(lp158
+I570
+aI290
+asg15
+(itiddlywiki
+Tiddler
+p159
+(dp160
+g57
+VAlthough at first, my old guild in WoW was a supportive environment for me, it started to become toxic. I recognized patterns of abuse in someone that I had considered a close friend, and there was a lot of conflict and drama within the guild. When Cataclysm was released in December, I leveled to 85 and then transfered to a new server. They were very impressed by my raiding skills and by my knowledge of my class and the game. We raided 3 nights a week, over 12 hours total of raiding time. I kept it up for a while but then decided to start trying to be more social outside of virtual worlds for a while. So I canceled my WoW subscription.\u000a\u000a[[Career movement]]
+p161
+sg59
+(lp162
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I6
+I49
+I6
+I335
+I0
+tp163
+(dp164
+tp165
+Rp166
+sg66
+g166
+sg67
+VWorld of Warcraft, part 2
+p167
+sbsa(dp168
+g12
+I00
+sg13
+(lp169
+I10
+aI430
+asg15
+(itiddlywiki
+Tiddler
+p170
+(dp171
+g57
+VAfter I had been there a few months, they converted me from contract to full time. I got a sizable raise along with it and the promise of more opportunities down the road (in particular, the opportunity to do game design, something one of the my dearest friends, someone I worked with there, convinced me I would be good at).\u000a\u000aI was learning not to be afraid to dream.\u000a\u000aI started looking for an apartment, at first with a friend, but ultimately decided I wanted my own place. Even if I could only afford a small studio, it would be "mine" in a way that I'd never been able to call a place mine before. I found a place and made arrangements to pay the deposit and sign the lease. I would move in April.\u000a\u000a[[My project]]\u000a
+p172
+sg59
+(lp173
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I14
+I50
+I6
+I335
+I0
+tp174
+(dp175
+tp176
+Rp177
+sg66
+g177
+sg67
+VThe City
+p178
+sbsa(dp179
+g12
+I00
+sg13
+(lp180
+I150
+aI430
+asg15
+(itiddlywiki
+Tiddler
+p181
+(dp182
+g57
+VInstead of moving into a new place, though, we all got laid off, everyone in development. My friends warned me so that I could cancel my app't with the realtor, saving me from signing a lease on a place I would no longer be able to afford.\u000a\u000aInstead of immediately going back to work, I decided to take some time to work on projects of my own. I knew that I would never be hired as a game designer if I didn't have a portfolio, and nothing I had worked on, design wise, had been published yet.\u000a\u000aI spent most of my time dabbling in Python and Gamemaker. I didn't really finish any projects, but I feel proud of the time I spent. I had a pretty good amount of self discipline, something I didn't know I had until then - I worked regular hours on my own, I kept to a schedule for exercise and sleep and work and play. I created some neat things but nothing finished.\u000a\u000a[[Dating Again]]\u000a[[Six Months Later...]]\u000a
+p183
+sg59
+(lp184
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I19
+I27
+I6
+I335
+I0
+tp185
+(dp186
+tp187
+Rp188
+sg66
+g188
+sg67
+VMy project
+p189
+sbsa(dp190
+g12
+I00
+sg13
+(lp191
+I290
+aI430
+asg15
+(itiddlywiki
+Tiddler
+p192
+(dp193
+g57
+VI got called in for an interview and was hired almost immediately after. I knew I got the job when I walked in for the interview, though, because one of the people interviewing me was someone I had hired in my previous position.\u000a\u000aIt feels good knowing that I can be confident in my skills and that others recognize and appreciate them. The new job is interesting but not exactly what I want to be doing.
+p194
+sg59
+(lp195
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I23
+I6
+I6
+I335
+I0
+tp196
+(dp197
+tp198
+Rp199
+sg66
+g199
+sg67
+VSix Months Later...
+p200
+sbsa(dp201
+g12
+I00
+sg13
+(lp202
+I429
+aI430
+asg15
+(itiddlywiki
+Tiddler
+p203
+(dp204
+g57
+VShortly after the layoff, I met someone interesting.\u000a\u000aAt first I told myself I needed to wait until I was working again, until I had my own place in the City.\u000a\u000aBut he was //really// interesting.\u000a\u000aEventually I told him I was interested. I think he was surprised. There were a lot of complicating factors. But he was interested too, and our relationship blossomed. I didn't see a lot of red flags, either, though I was really scared. I hadn't felt this strongly about anyone since [[that time|The End, the Beginning]].\u000a\u000aI'm pretty amazed that I kept at it, even though I was so afraid. I told him a lot of what I had been through and how I was afraid, but I don't think he really realized how much of an uphill battle just seeing him was for me until much later (and maybe not even then).\u000a\u000aI wasn't going to let a painful past prevent me from living the life I wanted to live.\u000a\u000aThe new relationship took up a lot of creative energy that I had been putting towards my projects, though. I don't regret the choice.\u000a\u000a[[Six Months Later...]]\u000a
+p205
+sg59
+(lp206
+sg61
+g23
+((I2013
+I12
+I1
+I19
+I25
+I0
+I6
+I335
+I0
+tp207
+(dp208
+tp209
+Rp210
+sg66
+g210
+sg67
+VDating Again
+p211
 sbsasS'scale'
-p53
+p212
 I1
 ss.
